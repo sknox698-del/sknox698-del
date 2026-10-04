@@ -4,6 +4,13 @@
 
 I build, test, debug, and improve software with a focus on quality, reliability, and practical problem solving.
 
+### Current Portfolio Highlights
+
+- 🧠 Released **Syntax Sage v1.0.0** with 230 automated tests
+- 🧪 Built a **Playwright + TypeScript QA automation portfolio**
+- 🔎 Created documented manual QA and regression case studies
+- 💻 Experience across Python, JavaScript, TypeScript, web, desktop and mobile development
+
 ## 🔍 What I Work With
 
 ### QA & Testing
@@ -33,58 +40,57 @@ I build, test, debug, and improve software with a focus on quality, reliability,
 - Technical Support
 - UI/UX
 
-## 🚀 Featured Project — Syntax Sage
+## ⭐ Featured Work
 
-**Syntax Sage** is a modular Python-based AI programming assistant designed to analyze source code and software projects.
+### 🧠 Syntax Sage
+**Python · AI Integration · Static Analysis · Automated Testing**
 
-Key capabilities include:
+AI-assisted programming analysis tool for source-code inspection,
+project scanning, dependency analysis, change-impact analysis and debugging.
 
-- Source code analysis
-- Dependency analysis
-- Project scanning
-- Issue collection
-- Structured project reporting
-- Automated testing
-- AI integration
-- Debugging assistance
+- Public v1.0.0 release
+- 230 automated tests
+- Python
+- Local AI integration with Ollama
+- Dependency and project analysis
 
-Syntax Sage has reached its public **v1.0.0 release**.
+### 🧪 QA Automation Portfolio
+**Playwright · TypeScript · API Testing · CI/CD**
 
-## 🧰 Current Technical Focus
+End-to-end QA automation portfolio demonstrating:
 
-I'm currently expanding my work in:
-
-- Software Quality Assurance
-- Playwright automation
-- Selenium
-- Python development
-- JavaScript development
+- Playwright browser automation
 - API testing
-- AI-assisted software development
-
-## 💼 What I Can Help With
-
-- Website and application testing
-- Manual QA
 - Regression testing
-- Functional testing
-- Bug reproduction and reporting
-- Browser automation
-- Python debugging
-- JavaScript troubleshooting
-- Technical support
-- Software project analysis
+- Cross-browser testing
+- Page Object Model
+- Failure investigation
+- GitHub Actions CI
+- Postman API testing
 
-## 📌 Featured Projects
+### 🔎 Lemon Glass QA Portfolio
+**Manual QA · Regression Testing · JavaScript · Playwright**
 
-### Syntax Sage
-AI-assisted Python development and code-analysis tool.
+QA case study demonstrating:
 
-### The Empire
-Mobile application project demonstrating application design and development.
+- Manual defect investigation
+- Regression analysis
+- Test design
+- Reproduction steps
+- Automated regression checks
+- Controlled defect demonstrations
 
-### Lie Detector
-Mobile application project demonstrating application development and UI concepts.
+### 📱 The Empire
+**JavaScript · HTML/CSS · Capacitor · Android**
+
+Mobile-first business strategy game demonstrating application architecture,
+state management, responsive UI design and Android packaging.
+
+### 🕵️ Lie Detector
+**React Native · Expo · TypeScript**
+
+Mobile detective-game prototype featuring procedural cases,
+evidence analysis, local persistence and interactive state management.
 
 ## 📫 Connect With Me
 
