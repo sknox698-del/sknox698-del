@@ -42,7 +42,7 @@ I build, test, debug, and improve software with a focus on quality, reliability,
 
 ## ⭐ Featured Work
 
-### 🧠 Syntax Sage
+### 🧠 [Syntax Sage](https://github.com/sknox698-del/Syntax-Sage)
 **Python · AI Integration · Static Analysis · Automated Testing**
 
 AI-assisted programming analysis tool for source-code inspection,
@@ -54,7 +54,7 @@ project scanning, dependency analysis, change-impact analysis and debugging.
 - Local AI integration with Ollama
 - Dependency and project analysis
 
-### 🧪 QA Automation Portfolio
+### 🧪 [QA Automation Portfolio](https://github.com/sknox698-del/qa-automation-playwright-typescript)
 **Playwright · TypeScript · API Testing · CI/CD**
 
 End-to-end QA automation portfolio demonstrating:
@@ -68,7 +68,7 @@ End-to-end QA automation portfolio demonstrating:
 - GitHub Actions CI
 - Postman API testing
 
-### 🔎 Lemon Glass QA Portfolio
+### 🔎 [Lemon Glass QA Portfolio](https://github.com/sknox698-del/lemon-glass-qa-portfolio)
 **Manual QA · Regression Testing · JavaScript · Playwright**
 
 QA case study demonstrating:
@@ -80,13 +80,13 @@ QA case study demonstrating:
 - Automated regression checks
 - Controlled defect demonstrations
 
-### 📱 The Empire
+### 📱 [The Empire](https://github.com/sknox698-del/the-empire)
 **JavaScript · HTML/CSS · Capacitor · Android**
 
 Mobile-first business strategy game demonstrating application architecture,
 state management, responsive UI design and Android packaging.
 
-### 🕵️ Lie Detector
+### 🕵️ [Lie Detector](https://github.com/sknox698-del/lie-detector)
 **React Native · Expo · TypeScript**
 
 Mobile detective-game prototype featuring procedural cases,
